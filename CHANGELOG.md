@@ -1,5 +1,9 @@
 # ChangeLog
 
+## Unreleased
+
+- **Android:** Migrate to Flutter's Kotlin support without applying or bundling the Kotlin Gradle Plugin. Requires Flutter 3.44 and Dart 3.12 or later.
+
 ## 4.2.5
 
 ### Fixes
